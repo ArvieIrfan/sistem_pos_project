@@ -1,0 +1,7 @@
+untuk admin :
+username : admin
+password : admin
+
+karyawan : admin yang buat username nya dan yang sudah ada yaitu :
+username : khairul
+password : khairul123
